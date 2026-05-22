@@ -23,9 +23,10 @@ name: Sabrina
 location: Brazil
 role: estudante de informática
 currently_learning:
-  - Python
+  - C++
+  - C#
   - JavaScript
-  - Git & GitHub
+  - GitHub
 interests:
   - cyber aesthetic
   - UI design
