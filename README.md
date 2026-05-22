@@ -1,14 +1,14 @@
-# ✦ 𝘚𝘢𝘣𝘳𝘪𝘯𝘢 ✦
+# ✦ 𝘚𝘢𝘣𝘳𝘪𝘯𝘢  ✦
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/6e/7e/87/6e7e878e8d52f4df0dbfcb5f4f64df2f.gif" width="100%">
+<img src="https://i1-c.pinimg.com/1200x/63/7e/e7/637ee777ab366fa678088d7a42cbecc7.jpg" width="100%">
 </div>
 
 <div align="center">
 
 ```txt
 ☾⋆｡𖦹 °✩
-blue mind • late night coding • digital chaos
+blue mind • digital chaos
 ☾⋆｡𖦹 °✩
 ```
 
@@ -28,8 +28,6 @@ currently_learning:
   - JavaScript
   - GitHub
 interests:
-  - cyber aesthetic
-  - UI design
   - programação
   - gatos
 ```
@@ -38,24 +36,9 @@ interests:
 
 ## 🌊 tech stack
 
-<div align="center">
+<div align="center"> <img src="https://skillicons.dev/icons?i=cpp,cs,js,github,vscode&theme=dark" /> </div>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,vscode&theme=dark" />
 
-</div>
-
----
-
-## 📊 github stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=PaixaoSabrina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaixaoSabrina&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
 
 ## 🌌 currently
 
