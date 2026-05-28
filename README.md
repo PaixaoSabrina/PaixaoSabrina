@@ -50,7 +50,7 @@ interests:
 
 ---
 
-## 🫧 socials
+## 🌐 socials
 
 <div align="center">
 
